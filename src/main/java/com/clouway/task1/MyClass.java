@@ -8,7 +8,6 @@ import org.apache.log4j.Logger;
  */
 public class MyClass {
   private static Logger log = Logger.getLogger(MyClass.class.getName());
-
   public static void main(String[] args) {
     Greeter greeter = new Greeter("Hello!!!");
     log.info(greeter.greet());

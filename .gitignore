@@ -12,6 +12,7 @@ out/
 *.ear
 
 # User-specific stuff:
+./idea
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
@@ -24,3 +25,17 @@ out/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.gradle/
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/gradle.xml
+.idea/modules.xml
+.idea/modules/gradle.iml
+build/classes/
+build/dependency-cache/
+build/libs/
+build/tmp/compileJava/
+lib/
+src/main/resources/
+src/test/resources/
